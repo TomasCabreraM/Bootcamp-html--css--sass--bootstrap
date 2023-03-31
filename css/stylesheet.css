@@ -1,0 +1,22 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p[name="my-para"] {
+    background: #000;
+}
+
+div.heading > a[href~=".com"][target~="_blank"] {
+
+}
+
+a[href^="c"][hre$=".com"] {
+}
+
+div ~ p[class|="style"] {
+
+}
+
+div > [dir="rtl"]{}
