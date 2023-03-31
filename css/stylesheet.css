@@ -20,3 +20,4 @@ div ~ p[class|="style"] {
 }
 
 div > [dir="rtl"]{}
+
